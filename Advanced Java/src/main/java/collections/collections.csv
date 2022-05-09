@@ -1,0 +1,6 @@
+﻿Name,Ordering,Duplicates,Speed,Memory,
+Set,No,Not allowed,,,
+List,Yes,Allowed,,,
+Queue,,,,,FIFO
+Maps(not collection interface),,,,,
+Linked List,Yes,,Fast for inserting data to middle,High memory usage,

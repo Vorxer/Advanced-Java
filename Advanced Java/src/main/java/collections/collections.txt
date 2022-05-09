@@ -1,0 +1,4 @@
+Iterable -> Collection (add(), remove(), isempty(), toarray()...) -> Set
+                                               + queue Interface  -> List
+                                                                  -> Queue
+Map
